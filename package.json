@@ -1,0 +1,30 @@
+{
+  "name": "learn-express",
+  "version": "1.0.0",
+  "description": "node.js express example",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/romingoon/learn-express.git"
+  },
+  "keywords": [
+    "node.js",
+    "express"
+  ],
+  "author": "문승현",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romingoon/learn-express/issues"
+  },
+  "homepage": "https://github.com/romingoon/learn-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
